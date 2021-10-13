@@ -1,2 +1,2 @@
 # django-study
-Django
+BackEnd with Django
